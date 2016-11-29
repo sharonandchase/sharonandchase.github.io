@@ -11,7 +11,7 @@ body {
 }
 
 body {
-    font-family:'Times New Roman',Arial,sans-serif;
+    font-family: 'Times New Roman';
 }
 
 
@@ -19,7 +19,7 @@ body {
 
 hr {
     max-width: 50px;
-    border-color: #000000;
+    border-color: #001D55;
     border-width: 3px;
 }
 
@@ -28,7 +28,7 @@ hr.light {
 }
 
 a {
-    color: #000000;
+    color: #001D55;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
@@ -36,7 +36,7 @@ a {
 
 a:hover,
 a:focus {
-    color: #000000;
+    color: #eb3812;
 }
 
 h1,
@@ -45,17 +45,13 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: 'Times New Roman',Arial,sans-serif;
-    color: black;
-    /*background-color:#FFFFFF;*/
+    font-family: 'Times New Roman';
 }
 
 p {
     margin-bottom: 20px;
-    color: black;
     font-size: 16px;
     line-height: 1.5;
-    
 }
 
 .bg-primary {
@@ -85,7 +81,7 @@ aside {
 
 .navbar-default {
     border-color: rgba(34,34,34,.05);
-    font-family: 'Helvetica Neue',Arial,sans-serif;
+    font-family: 'Times New Roman';
     background-color: #fff;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
@@ -94,7 +90,7 @@ aside {
 
 .navbar-default .navbar-header .navbar-brand {
     text-transform: uppercase;
-    font-family: 'Helvetica Neue',Arial,sans-serif;
+    font-family: 'Times New Roman';
     font-weight: 700;
     color: #001D55;
 }
@@ -327,7 +323,7 @@ header .header-content .header-content-inner p {
 .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category,
 .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-name {
     padding: 0 15px;
-    font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
+    font-family: 'Open Sans','Helvetica Neue',Arial,sans-'Times New Roman';
 }
 
 .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category {
@@ -477,7 +473,7 @@ fieldset[disabled] .btn-primary.active {
     border: 0;
     border-radius: 300px;
     text-transform: uppercase;
-    font-family: "Helvetica Neue",'Helvetica Neue',Arial,sans-serif;
+    font-family: "Helvetica Neue",'Helvetica Neue',Arial,sans-'Times New Roman';
     font-weight: 700;
 }
 
@@ -510,5 +506,3 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #222;
 }
-
-
